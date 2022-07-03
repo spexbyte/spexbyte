@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @spexbyte
-- 👀 I’m interested in building unique and effecient products for clients
+- 👋 Hi, we are @spexbyte
+- 👀 We're interested in building unique and effecient products for clients
 - 📫 How to reach me spexbyte@gmail.com
 
 <!---
