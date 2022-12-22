@@ -1,6 +1,6 @@
 - 👋 Hi, we are @spexbyte
 - 👀 We're interested in building unique and effecient products for clients
-- 📫 How to reach me spexbyte@gmail.com
+- 📫 Reach us at spexbyte@gmail.com
 
 <!---
 spexbyte/spexbyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
